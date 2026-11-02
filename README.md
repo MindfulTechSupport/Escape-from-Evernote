@@ -109,7 +109,7 @@ LICENSE          Usage terms
 HELP.md          Answers to common questions
 PRIVACY.md       What the plugin does (and doesn't do) with your information
 .claude-plugin/  Marketplace catalog, so Claude can install the plugin from this repo
-docs/            The website (GitHub Pages, freemynotes.com)
+docs/            Source copy of the website's home page (the live site runs on WordPress)
 plugin/          The free plugin's source files (current version)
 releases/        Frozen copies of every version, version number in each file name
   v1.0.0/

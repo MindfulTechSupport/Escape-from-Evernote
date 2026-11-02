@@ -1,6 +1,6 @@
 # Privacy
 
-*Free My Notes · Mindful Tech Projects · last updated 2026-10-27 (version 1.0.0)*
+*Free My Notes · Mindful Tech Projects · last updated 2026-11-02 (version 1.0.0)*
 
 **The plugin doesn't send your information to Mindful Tech Projects.** It has no servers and no analytics. Everything happens inside your own Claude account and the apps you connect.
 
@@ -15,6 +15,6 @@
 - **Autopilot (The Great Escape)** uses Claude's computer use on your own computer, only after you turn it on and give permission. You can stop it anytime with Esc.
 - **Feedback** is something you choose to post, yourself, on this project's public GitHub page. The plugin drafts it with you but never sends it. Don't include anything private; posts there are public.
 - **Payments** happen on Patreon, Gumroad, Lemon Squeezy, or the crypto checkout, under their own privacy policies. The plugin never handles payments. Paying with crypto doesn't ask for card or bank details, but blockchain payments are public records, so it isn't anonymous.
-- **The website** (freemynotes.com) is a plain page hosted on GitHub Pages, with no tracking of our own.
+- **The website** (freemynotes.com) runs on WordPress, hosted by SiteGround. We add no analytics or tracking. Like any web host, SiteGround keeps standard server logs (such as IP addresses and pages visited) to run and protect the site.
 
 Questions: open an issue on this repository.
